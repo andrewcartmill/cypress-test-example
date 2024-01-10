@@ -1,0 +1,20 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "allure": "^0.0.0",
+    "cypress": "^13.6.2",
+    "npx": "^10.2.2"
+  },
+  "devDependencies": {
+    "@mmisty/cypress-allure-adapter": "^0.16.2",
+    "allure-commandline": "^2.25.0"
+  }
+}

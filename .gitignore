@@ -1,0 +1,13 @@
+# Dependencies
+node_modules
+
+# Misc
+.DS_Store
+.env
+npm-debug.log*
+.vscode
+cypress/screenshots
+cypress/videos
+cypress/downloads
+allure-results
+allure-report
